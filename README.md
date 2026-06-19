@@ -3,6 +3,7 @@
 Ultra-private, client-side pixel cryptography studio. Secure sensitive visual assets locally using mathematical ciphers and color channel manipulation directly in your browser.
 
 💼 SkillCraft Technology Internship Project | Cyber Security Task #2
+S
 
 🎯 Main Goal
 
